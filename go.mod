@@ -1,4 +1,4 @@
-module github.com/rylio/ytdl
+module github.com/Xenia101/ytdl
 
 go 1.13
 
